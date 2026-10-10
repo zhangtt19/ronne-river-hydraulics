@@ -1,0 +1,74 @@
+[
+  {
+    "archive": "baseline-archive.zip",
+    "member": "condition1/toturial.f01",
+    "bytes": 612,
+    "sha256": "bdaf5ade1e96dbd2b158b559bc75dac1a192fd205dd866c97ca61b7b29a4ed74"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "Terrain/Terrain.hdf",
+    "bytes": 807972,
+    "sha256": "3c4531ee6bfecc0410102ffe02f93aec5d0060fe49f307c47e164dc9868fec9d"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "Terrain/Terrain.Terrain_Ronne.tif",
+    "bytes": 20979460,
+    "sha256": "53e1827fba3dd18209f1f952417a7d23dac05e2bcbf2d46f19bfc7ed7578765d"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "Terrain/Terrain.vrt",
+    "bytes": 3365,
+    "sha256": "32d89a081724fa28dc2a84b75bebe247c8f5b494f4a0ff7742f42a55620c2f6b"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.g01",
+    "bytes": 136984,
+    "sha256": "e54f6dd0a694364ad037e7dc162f8d49b5e1d47106849125a1140e4a900bac08"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.g01.hdf",
+    "bytes": 268565,
+    "sha256": "085053d493652492ffbafd9058a12c8c81ab6032c12bb3703d1a1d0d900f992b"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.O01",
+    "bytes": 96000,
+    "sha256": "9658452c6c5ac2784f7cd94994ba3f66e43eb68739149fa856d75ae70eb273d0"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.p01",
+    "bytes": 6173,
+    "sha256": "d3d47348b73b0d16875a0f3261438bb4594ff01478c0c943ee32bb39b84b3cff"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.p01.hdf",
+    "bytes": 596470,
+    "sha256": "dfdd2406c642abb686e08535e0d8f11fbf6787bb4cdafff2f179aeac611fba63"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.prj",
+    "bytes": 567,
+    "sha256": "d51b8cdcca3b575af3a12ce192845f1c5a7e9282e762137302e050e3dfaf0b8f"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.r01",
+    "bytes": 132357,
+    "sha256": "3ac499330bf1edac2702f30ea4c2c65936534864ab810f2445e1e58bb91abc66"
+  },
+  {
+    "archive": "baseline-archive.zip",
+    "member": "toturial.rasmap",
+    "bytes": 24288,
+    "sha256": "2e67ab3c27c71beff123b6281f8635302d6fb444d8dc83b6f246484d0024326e"
+  }
+]

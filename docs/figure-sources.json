@@ -1,0 +1,27 @@
+[
+  {
+    "file": "figures/study-area.png",
+    "report_page": 3,
+    "description": "Study area and evaluation points"
+  },
+  {
+    "file": "figures/scenario-depths.png",
+    "report_page": 5,
+    "description": "Depth maps for four boundary scenarios"
+  },
+  {
+    "file": "figures/cross-section-2422.png",
+    "report_page": 5,
+    "description": "Cross-section water levels at RS 2422"
+  },
+  {
+    "file": "figures/cross-section-7107.png",
+    "report_page": 6,
+    "description": "Cross-section water levels at RS 7107"
+  },
+  {
+    "file": "figures/longitudinal-profile.png",
+    "report_page": 7,
+    "description": "Longitudinal water-surface profiles"
+  }
+]
